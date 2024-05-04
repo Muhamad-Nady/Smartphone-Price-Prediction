@@ -39,12 +39,8 @@ This project implements a machine learning model for predicting smartphone price
 * the run in bash '$python predict_script.py' you will get the prediction price range for your model
 
 **Contributing**
-
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests.
 
-**License**
-
-This project is licensed under the MIT License (see `LICENSE` file for details).
 
 **Contact**
 
